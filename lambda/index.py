@@ -1,5 +1,5 @@
 def lambda_handler(event, context):
     return {
         'statusCode': 200,
-        'body': 'Hello from Lambda! After Pipeline Deployment'
+        'body': 'Hello from !  Pipeline Deployment'
     }
