@@ -8,7 +8,7 @@ Parameters:
     Description: The AMI ID to use for the EC2 instance
   KeyPairName:
     Type: String
-    Default: Manish
+    Default: my-key
     Description: The name of the EC2 Key Pair
   InstanceType:
     Type: String
